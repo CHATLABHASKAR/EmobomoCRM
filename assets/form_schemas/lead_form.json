@@ -1,0 +1,7 @@
+[
+  { "label": "Name", "key": "name", "type": "text", "required": true },
+  { "label": "Email", "key": "email", "type": "email" },
+  { "label": "Phone", "key": "phone", "type": "number" },
+  { "label": "Status", "key": "status", "type": "dropdown", "options": ["New", "Contacted", "Demo", "Won", "Lost"] },
+  { "label": "Source", "key": "source", "type": "dropdown", "options": ["Google", "Referral", "LinkedIn", "Other"] }
+]
