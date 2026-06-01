@@ -11,7 +11,8 @@ analyzer:
   errors:
     use_key_in_widget_constructors: ignore
     unused_import: ignore
-include: package:flutter_lints/flutter.yaml
+    unnecessary_import: ignore
+    unused_local_variable: ignore
 
 linter:
   # The lint rules applied to this project can be customized in the

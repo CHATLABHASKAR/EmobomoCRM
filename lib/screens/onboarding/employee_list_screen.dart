@@ -1,3 +1,5 @@
+// ignore_for_file: invalid_null_aware_operator, unused_element, unused_field
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';

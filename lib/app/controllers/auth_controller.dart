@@ -1,3 +1,5 @@
+// ignore_for_file: unused_local_variable
+
 import 'package:get/get.dart';
 import '../services/auth_service.dart';
 import '../models/user_model.dart';

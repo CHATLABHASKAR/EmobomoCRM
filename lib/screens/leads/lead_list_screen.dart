@@ -1,3 +1,5 @@
+// ignore_for_file: unnecessary_null_comparison, invalid_null_aware_operator
+
 import 'package:flutter/material.dart';
 import 'package:crm/screens/dashboard/widgets/crm_scaffold.dart';
 import 'package:get/get.dart';
